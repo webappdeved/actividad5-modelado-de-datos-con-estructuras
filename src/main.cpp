@@ -3,7 +3,7 @@
    Materia: Laboratorio de Programación (LPR) — 5°
    Archivo: src/main.cpp
    Actividad 5: Modelado de datos con Structs y Punteros
-   ====================================================================
+   =====================================================================
 
 */
 
