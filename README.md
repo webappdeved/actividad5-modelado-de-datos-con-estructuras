@@ -1,4 +1,4 @@
-Proyecto:modelado de datos con estructuras
+Proyecto:modelado de datos con estructuras.
 
 
 Integrantes: Leon Melgarejo
